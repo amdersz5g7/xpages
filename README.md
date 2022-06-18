@@ -1,4 +1,4 @@
-[About](about/README.md) | [Contact](about/contact.md)
+[About](about/README.md) 🌳 [Contact](about/contact.md)
 
 ## Welcome to GitHub Pages
 
