@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "About"
-permalink: /xpages/about
+permalink: /about
 ---
 
 # This is an About Page
