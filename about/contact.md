@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Contact"
-permalink: /about/contact
+permalink: /xpages/about/contact
 ---
 
 # This is a Contact Page
