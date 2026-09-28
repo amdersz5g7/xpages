@@ -1,4 +1,4 @@
-[About](/xpages/about) 🌳 [Contact](/xpages/about/contact)
+[About](/about) 🌳 [Contact](/about/contact)
 
 ## Welcome to GitHub Pages
 
@@ -18,6 +18,7 @@ Syntax highlighted code block
 ### Header 3
 
 - Bulleted
+- List
 
 1. Numbered
 2. List
