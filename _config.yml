@@ -2,4 +2,5 @@ theme: jekyll-theme-hacker
 title: Isapan Jempol
 description: hanya isapan jempol belaka
 google_analytics: UA-XXXXXXXXX-X
-baseurl: /xpages
+url: "https://amdersz5g7.github.io"
+baseurl: "/xpages"

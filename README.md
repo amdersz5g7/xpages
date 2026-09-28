@@ -1,4 +1,4 @@
-[About](xpages/about/README.md) 🌳 [Contact](about/contact.md)
+[About](/xpages/about) 🌳 [Contact](/xpages/about/contact)
 
 ## Welcome to GitHub Pages
 
@@ -18,7 +18,6 @@ Syntax highlighted code block
 ### Header 3
 
 - Bulleted
-- List
 
 1. Numbered
 2. List
@@ -32,7 +31,7 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 
 ### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/amdersz5g7/xpages/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/amdersz5g7/xpages/settings/pages). The name of this theme is [jekyll-theme-hacker](https://github.com/pages-themes/hacker).
 
 ### Support or Contact
 
