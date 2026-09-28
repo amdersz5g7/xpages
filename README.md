@@ -1,4 +1,4 @@
-[About](/xpages/about) 🌳 [Contact](/about/contact)
+[About](/xpages/about) 🌳 [Contact](/about/contact) 📝 [Test](/xpages/test)
 
 ## Welcome to GitHub Pages
 
@@ -32,7 +32,7 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 
 ### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/amdersz5g7/xpages/settings/pages). The name of this theme is [jekyll-theme-hacker](https://github.com/pages-themes/hacker).
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/amdersz5g7/xpages/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
