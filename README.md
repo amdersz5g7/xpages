@@ -1,4 +1,4 @@
-[About](/about) 🌳 [Contact](/about/contact)
+[About](/xpages/about) 🌳 [Contact](/about/contact)
 
 ## Welcome to GitHub Pages
 
